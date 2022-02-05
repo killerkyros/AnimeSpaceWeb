@@ -110,7 +110,7 @@ template { display: none; }
 
 * { box-sizing: border-box; }
 
-::selection { color: #fff; background: #f7d12e; }
+::selection { color: #fff; background: #2c84fa; }
 
 html { font-size: 14px !important; scroll-behavior: smooth; }
 

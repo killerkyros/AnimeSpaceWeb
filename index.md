@@ -3,7 +3,6 @@ layout: default
 title: Home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
 ---
 
 # Anime Space bot
@@ -21,4 +20,11 @@ A bot that aims to make anime/manga search on discord easy with command to searc
 Connect your anilist user to the bot and view your preferences in bot commands
 {: .fs-5 .fw-300 }
 
-![](/assets/images/connect.png)
+![]({{ site.baseurl }}/assets/images/connect.png)
+
+## Search media
+
+Search any media you have in your mind
+{: .fs-5 .fw-300 }
+
+![]({{ site.baseurl }}/assets/images/searchOverview.png)
