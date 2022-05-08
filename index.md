@@ -13,18 +13,36 @@ A bot that aims to make anime/manga search on discord easy with command to searc
 
 [Invite the bot]({{ site.data.variables.botInviteLink }}){: .btn .btn-color-custom001 .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on top.gg]({{ site.data.variables.topGGLink }}){: .btn .btn-outline-custom001 .fs-5 .mb-4 .mb-md-0 }
 
+
 ---
 
-## Anilist connection
+Command list:
 
-Connect your anilist user to the bot and view your preferences in bot commands
-{: .fs-5 .fw-300 }
+![help command]({{ site.baseurl }}/assets/images/help3.png)
 
-![]({{ site.baseurl }}/assets/images/connect.png)
+The bot has a list of slash commands, the main one that the bot features are:
 
-## Search media
+- **anime** - to search anime
+- **manga** - to search manga/webtoons/novels...
 
-Search any media you have in your mind
-{: .fs-5 .fw-300 }
+![anime + manga commands]({{ site.baseurl }}/assets/images/animanga.png)
 
-![]({{ site.baseurl }}/assets/images/searchOverview.png)
+The bot also enables to connect an anilist profile to the bot and view a little embed profile of it:
+
+![profile + connect commands]({{ site.baseurl }}/assets/images/profileconnect.png)
+
+Other media search commands are:
+
+- **character** - search info about characters from anime/manga
+- **staff** - search generic info for any staff creators in the anime industry
+- **studio** - search info about any studio member in anime industry
+
+![enter image description here]({{ site.baseurl }}/assets/images/characterstaffstudio.png)
+
+Command to explore new media:
+
+- **randommedia** - randomly iterate anime/manga to explore new stuff
+- **trending** - list of current trending commands
+- **seasonal** - list of current season media
+
+![enter image description here]({{ site.baseurl }}/assets/images/trendingseasonalrandommedia.png)

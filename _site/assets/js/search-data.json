@@ -73,22 +73,10 @@
   },"12": {
     "doc": "Home",
     "title": "Anime Space bot",
-    "content": "A bot that aims to make anime/manga search on discord easy with command to search any media you have in your mind and share them with your friends . Invite the bot View on top.gg . ",
+    "content": "A bot that aims to make anime/manga search on discord easy with command to search any media you have in your mind and share them with your friends . Invite the bot View on top.gg . Command list: . The bot has a list of slash commands, the main one that the bot features are: . | anime - to search anime | manga - to search manga/webtoons/novels… | . The bot also enables to connect an anilist profile to the bot and view a little embed profile of it: . Other media search commands are: . | character - search info about characters from anime/manga | staff - search generic info for any staff creators in the anime industry | studio - search info about any studio member in anime industry | . Command to explore new media: . | randommedia - randomly iterate anime/manga to explore new stuff | trending - list of current trending commands | seasonal - list of current season media | . ",
     "url": "http://localhost:4000/AnimeSpaceWeb/#anime-space-bot",
     "relUrl": "/#anime-space-bot"
   },"13": {
-    "doc": "Home",
-    "title": "Anilist connection",
-    "content": "Connect your anilist user to the bot and view your preferences in bot commands . ",
-    "url": "http://localhost:4000/AnimeSpaceWeb/#anilist-connection",
-    "relUrl": "/#anilist-connection"
-  },"14": {
-    "doc": "Home",
-    "title": "Search media",
-    "content": "Search any media you have in your mind . ",
-    "url": "http://localhost:4000/AnimeSpaceWeb/#search-media",
-    "relUrl": "/#search-media"
-  },"15": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
