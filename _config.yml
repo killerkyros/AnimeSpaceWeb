@@ -67,7 +67,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Invite the bot":
-    - https://discord.com/api/oauth2/authorize?client_id=855904155902279681&permissions=0&scope=bot%20applications.commands
+    - https://discord.com/api/oauth2/authorize?client_id=967820041057890314&permissions=0&scope=bot%20applications.commands
   "Join support server":
     - https://discord.gg/sYAceP6Pmf
 
